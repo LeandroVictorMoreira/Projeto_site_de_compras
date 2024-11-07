@@ -1,3 +1,6 @@
+
+
+
 #Definição da lista de dicionarios que contem o nome do item e seu devido valor
 
 produtos = [
